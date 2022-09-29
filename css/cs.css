@@ -54,23 +54,20 @@ height: 660px;
 }
 
 .imagen_principal{
-position: absolute;
-height: 85%;
-width: 66%;
-background-image: url(../img/pan.jpg);
-background-repeat: no-repeat;
-margin-left: 16%;
-margin-top: 2%;
-border-radius: 40%;
+    position: absolute;
+    height: 85%;
+    width: 66%;
+    background-image: url(../img/cuales-son-los-tipos-de-paneles-solares-mas-eficientes-13685.jpg);
+    margin-left: 17%;
+    margin-top: 5%;
+    border-radius: 50%;
 }
 
 .titulo_principal{
-height: 230px;
-width: 1025px;
-margin-top: 200px;
-text-align: center;
-font-size: 21px;
-color: #ECDDB6;
+    margin-top: 200px;
+    text-align: center;
+    font-size: 25px;
+    color: #ECDDB6;
 }
 
 /* ------------------------------------------------------------productos ------------------ */
