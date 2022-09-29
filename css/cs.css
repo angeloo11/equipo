@@ -108,65 +108,97 @@ height: 660px;
 
 /* ------------------------------------------------------------productos ------------------ */
 
-.contenedor_Productos{
-height: 235px;
-width: 100%;
-background-color: #562334e6;
-}
-
-.boton_productos{
-text-align: center;
-font-size: 20px;
-width: 260px;
-height: 140px;
-background-color: #ECDDB6;
-border-radius: 0px 0px 150px 150px;
-padding-top: 87px;
-margin-left: 42%;
-}
-
-.h1_productos{
-padding-top: 15px;
- color: #614e3e;
-}
-
-
-.caja_compartida{
-width: 300px;
-height: 300px;
-background-color: pink;
-background-repeat: no-repeat;
-border: 2px solid darkblue;
-}
-
-.caja1{
-background-image: url(../img/berri-artepan-768x537.jpg);
-background-size: cover;
-}
 .contenedor__filosofia{
     background-color: #705b49;
-    height: 550px;
+    height: 660px;
 }
-.filosofia{
-    width:90%;
-    height: 550px;
-    background-image: url(../img/fondo-pan.jpg);
-   opacity: 0.90;
-    margin-left:80px;
-    display: flex; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.foo{
+    background-color: #514235;
+    height: 320px;
 }
-.titulo__filosofia{
-    width: 500px;
-    height: 250px;
-    font-size: 30px;
-    margin-top: 200px;
-    margin-left: 100px;
-    color: antiquewhite;
+.cc{
+    font-family: initial;
+    position: relative;
+    top: 70px;
+    left: 70px;
+    font-style: oblique;
 }
-.parrafo__filosofia{
-    width: 500px;
-    height: 300px;
-    font-size: 22px;
-    margin: 50px;
-    color: antiquewhite;
+.ccc{
+    font-family: initial;
+    position: relative;
+    top: 100px;
+    left: 124px;
+    font-style: oblique;
+}
+.s{
+    font-family: initial;
+    position: relative;
+    top: 100px;
+    left: 124px;
+    font-style: oblique;
+}
+.sss{
+    font-family: initial;
+    position: relative;
+    top: 56px;
+    left: 400px;
+    font-style: oblique;
+}
+.ss{
+    font-family: initial;
+    position: relative;
+    top: 56px;
+    left: 400px;
+    font-style: oblique;
+}
+.m{
+    font-family: initial;
+    position: relative;
+    top: 10px;
+    left: 557px;
+    font-style: oblique;
+}
+.mm{
+    font-family: initial;
+    position: relative;
+    top: 10px;
+    left: 557px;
+    font-style: oblique;
+}
+.Enlaces{
+    font-family: initial;
+    position: relative;
+    top: -90px;
+    left: 832px;
+    font-style: oblique;
+}
+.Enlaces1{
+    font-family: initial;
+    position: relative;
+    top: -80px;
+    left: 850px;
+    font-style: oblique;
+    color: black;
+}
+.Enlaces2{
+    font-family: initial;
+    position: relative;
+    top: -65px;
+    left: 870px;
+    font-style: oblique;
+    color: black;
 }
