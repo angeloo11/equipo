@@ -55,16 +55,52 @@ height: 660px;
 
 .imagen_principal{
     position: absolute;
-    height: 85%;
-    width: 66%;
+    height: 75%;
+    width: 58%;
     background-image: url(../img/cuales-son-los-tipos-de-paneles-solares-mas-eficientes-13685.jpg);
-    margin-left: 17%;
+    margin-left: 20%;
     margin-top: 5%;
     border-radius: 50%;
+    border-radius: 50%;
+    border: solid;
 }
-
+.imagen2{
+    position: absolute;
+    height: 50%;
+    width: 50%;
+    background-image: url(../img/cuales-son-los-tipos-de-paneles-solares-mas-eficientes-13685.jpg);
+    margin-left: -14%;
+    margin-top: 4%;
+    border-radius: 50%;
+    border-radius: 50%;
+    border: solid;
+}
+.imagen3{
+    position: absolute;
+    height: 50%;
+    width: 50%;
+    background-image: url(../img/cuales-son-los-tipos-de-paneles-solares-mas-eficientes-13685.jpg);
+    margin-left: 73%;
+    margin-top: -40%;
+    border-radius: 50%;
+    border-radius: 50%;
+    border: solid;
+}
+.textoinicial{
+    font-size: x-large;
+    font-family: initial;
+    position: absolute;
+    top: 78px;
+    left: 35px;
+}
+.h1{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 25px;
+    color: #000000;
+}
 .titulo_principal{
-    margin-top: 200px;
+    margin-top: 170px;
     text-align: center;
     font-size: 25px;
     color: #ECDDB6;
